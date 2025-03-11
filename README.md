@@ -1,5 +1,11 @@
-## Hi there 👋
+# Hi, I'm Batzorig👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-bat3orig-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bat3orig/)](https://www.linkedin.com/in/bat3orig/)
+[![Gmail Badge](https://img.shields.io/badge/-b.bat3orig-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:b.bat3orig@gmail.com)](mailto:b.bat3orig@gmail.com)
+
+
+
+Welcome to my profile! I'm a hardware and software engineer @Incon LLC. Thanks for visiting and i'd love to [connect](https://www.linkedin.com/in/bat3orig/)!
 <!--
 **Bat3orig/Bat3orig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
